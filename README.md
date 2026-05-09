@@ -8,4 +8,4 @@ This application makes Hermes run in YOLO mode, and I here warn you. I donot hol
 Run by running the python file main.py
 <img width="1198" height="795" alt="image" src="https://github.com/user-attachments/assets/aeb93710-3110-496f-8f67-61e77127c405" />
 
-
+RAG and memory support under construction
