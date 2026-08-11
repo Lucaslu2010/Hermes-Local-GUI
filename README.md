@@ -1,3 +1,4 @@
+#This Project has stopped updating becuase Nous Research published Hermes Desktop, which covers all the features I have.
 Vibe coded in 2 hours
 Easy Local GUI, written in python. (Now with anime girl on the side with reactions)
 Has alot of bugs and errors in filtering.
